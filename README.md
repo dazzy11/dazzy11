@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazzy11&show_icons=true&locale=en&layout=compact" alt="dazzy11" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dazzy11&show_icons=true&locale=en&layout=compact" alt="dazzy11" /></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dazzy11&theme=dark" width="400" />
   <a href="https://leetcode.com/loginov-kirill/"><img src="https://leetcard.jacoblin.cool/deepakmadhukumar?theme=dark" width="400" /></a>
 </div>
